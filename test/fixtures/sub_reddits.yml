@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  politics_code: MyString
+  description: MyText
+  banner_image: MyString
+  response_data: 
+
+two:
+  politics_code: MyString
+  description: MyText
+  banner_image: MyString
+  response_data: 
